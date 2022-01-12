@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**royess/royess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduate student @ IIIS, Tsinghua University.
 
-Here are some ideas to get you started:
+Research focus: quantum dynamics and quantum information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently, interested in differential programming for quantum dynamical model.
+
+<table>
+<tr>
+<td>
+
+![](https://github-readme-stats.vercel.app/api?username=royess)
+
+</td>
+<td>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=royess)
