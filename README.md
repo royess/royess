@@ -2,9 +2,14 @@
 
 Graduate student @ IIIS, Tsinghua University.
 
-Research focus: quantum dynamics and quantum information.
+Research focus:
 
-Recently, interested in differential programming for quantum dynamical model.
+- quantum dynamics,
+- quantum information.
+
+Recently, interested in
+- parametric quantum dynamical model (combined with differentiable programming),
+- random models for quantum systems, including random matrices, random graphs, SYK...
 
 <table>
 <tr>
