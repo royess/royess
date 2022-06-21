@@ -2,7 +2,7 @@
 
 > Time to mix drinks and change lives! -- VA-11 HALL-A
 
-<img src="jill.gif" width="200"/>
+<img src="room.gif" width="300"/>
 
 Graduate student @ IIIS, Tsinghua University.
 
