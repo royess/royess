@@ -12,12 +12,12 @@ print(
 
 <img src="room.gif" width="300"/>
 
-Graduate student @ IIIS, Tsinghua University. Group link: <https://maresearch.github.io/author/yuxuan-yan/>.
+Graduate student @ IIIS, Tsinghua University. [Me](https://maresearch.github.io/author/yuxuan-yan/) in our research group.
 
 Research focus: quantum many-body dynamics, quantum information.
 
 Recently, interested in:
-- Parametric quantum circuits,
+- Parametric quantum circuits.
 - Random models for quantum systems.
 
 ## 🚀 Stat
