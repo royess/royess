@@ -14,11 +14,12 @@ print(
 
 Graduate student @ IIIS, Tsinghua University. [Me](https://maresearch.github.io/author/yuxuan-yan/) in our research group.
 
-Research focus: quantum many-body dynamics, quantum information.
+Research focus: quantum information, quantum many-body dynamics.
 
 Recently, interested in:
-- Parametric quantum circuits.
-- Random models for quantum systems.
+- Quantum errors and their correction.
+- Open quantum system.
+- Parametric quantum circuit.
 
 ## 🚀 Stat
  
