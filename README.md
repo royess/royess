@@ -10,4 +10,4 @@ Interests:
 
 Open-source code contributions:
 - Entanglement calculation and planar surface code for [QuantumClifford.jl](https://github.com/QuantumSavory/QuantumClifford.jl)
-- SHVQE implementation for [tensorcircuit](https://github.com/tencent-quantum-lab/tensorcircuit/pull/191)
+- SHVQE implementation for [tensorcircuit](https://github.com/tencent-quantum-lab/tensorcircuit/blob/master/examples/shvqe.py)
