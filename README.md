@@ -9,5 +9,5 @@ Interests:
 - Quantum magic resources.
 
 Open-source code contributions:
-- Entanglement calculation for `QuantumClifford.jl` -> QuantumSavory/QuantumClifford.jl/pull/59
-- SHVQE implementation for `tensorcircuit` -> tencent-quantum-lab/tensorcircuit/pull/191
+- Entanglement calculation and planar surface code for [QuantumClifford.jl](https://github.com/QuantumSavory/QuantumClifford.jl)
+- SHVQE implementation for [tensorcircuit](https://github.com/tencent-quantum-lab/tensorcircuit/pull/191)
