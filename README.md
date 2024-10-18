@@ -3,8 +3,8 @@
 Graduate student @ IIIS, Tsinghua University.
 
 Interests:
-- Open quantum systems, noise, and error correction.
+- Noisy quantum systems and error correction.
 - Quantum resources.
-- Variational quantum state ansatzes.
+- Variational approaches to quantum states.
 
 [Publications](https://scholar.google.com/citations?hl=en&user=_9ldhRwAAAAJ)
